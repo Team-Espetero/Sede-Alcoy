@@ -1,2 +1,2 @@
-# Team-Alcoy
-Repositorio de GitHub para los documentos del proyecto. [Team Alcoy]
+# Sede-Alcoy
+Repositorio de GitHub para los documentos del proyecto. [Sede Alcoy]
